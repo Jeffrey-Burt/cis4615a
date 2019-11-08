@@ -16,3 +16,8 @@ This GitHub repository consists of various homework assignments from CIS4615a wi
 
   , where <java file here> is the name of the Java file ***WITHOUT*** the .java suffix.
   Please let me know if you encounter any other issues.
+
+## ***NOTE ABOUT R02_XP00_J.java***
+The accompanying file, deleteFile.txt, will be (or hopefully) successfully deleted when R02_XP00_J.java
+is successfully compiled and ran. So, if it results in a FileNotFoundException, then that means the program
+was already executed. Just a heads up.
